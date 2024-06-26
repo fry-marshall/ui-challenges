@@ -25,7 +25,7 @@ You can find all thought this link: [https://mfry.io/ui-challenge](https://mfry.
 ## Technologies Used
 
 - **Figma**: Source of UI designs
-- **Angular**: Framework for web development
+- **HTML & CSS**: Framework for web development
 - **Flutter**: Framework for mobile development
 
 ### License
