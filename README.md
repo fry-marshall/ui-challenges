@@ -18,7 +18,7 @@ You can find all thought this link: [https://mfry.io/ui-challenge](https://mfry.
 ## Features
 
 - Reproduction of various UI designs from Figma
-- Web applications built with Angular
+- Web applications built with HTML, CSS
 - Mobile applications built with Flutter
 - Responsive and modern designs
 
